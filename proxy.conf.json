@@ -1,11 +1,11 @@
 {
   "/api": {
-    "target": "http://localhost:5000",
+    "target": "https://simple-stock-flow-api.onrender.com",
     "secure": false,
     "changeOrigin": true
   },
   "/media": {
-    "target": "http://localhost:5000",
+    "target": "https://simple-stock-flow-api.onrender.com",
     "secure": false,
     "changeOrigin": true
   }
